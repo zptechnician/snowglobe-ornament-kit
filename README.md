@@ -1,5 +1,7 @@
 # Snow Globe Ornament Kit
 
+Example product: [2026 New Christmas Memory Sphere Lamp, 2.7 inch](https://www.etsy.com/listing/4405248287/2026-new-christmas-memory-sphere-lamp-27?ls=r&ref=pla_similar_listing_tertiary-1&sr_prefetch=0&pf_from=listing&pro=1&content_source=9a02de5c281eab0e90252fbd91155edf%253ALTb423e9862023ddb8a9910bd1ba9ba5be23169959&logging_key=9a02de5c281eab0e90252fbd91155edf%3ALTb423e9862023ddb8a9910bd1ba9ba5be23169959)
+
 Notes for the little glass ball that plays videos (the 2.7 inch Christmas
 memory sphere). How to turn it on, how to put your own videos and photos on
 it, and the extra stuff for when it's plugged into a computer.
@@ -17,7 +19,7 @@ it, and the extra stuff for when it's plugged into a computer.
 This is the normal way. No special tools.
 
 1. Plug the ball into a computer with the USB cable.
-   (The seller page says Windows only, but a Mac worked fine for mine.)
+   Works on PC and Mac.
 2. Turn the ball on while it's plugged in (hold the middle button,
    3 seconds). A new drive pops up on the computer, like a USB stick.
 3. Open the drive. There are folders on it. **Do not delete the folders.**
@@ -31,7 +33,7 @@ File rules, simple version:
 - Keep videos short. A few minutes at most. The ball has 4 GB of space.
 - The battery lasts about 2 to 4 hours per charge.
 
-## [Advanced] When it's wired to the PC
+## [Advanced] When it's wired to a computer
 
 Only read this part if something is wrong, or if you make your own video
 files and want them to always play.
@@ -48,7 +50,8 @@ files and want them to always play.
 - **VIDEO** = the videos. The ball plays these first.
 - **picture** = the photos.
 - If the ball acts weird or the drive looks empty and broken: format the
-  drive in Windows, then make one new folder in the top level named exactly
+  drive (on PC: right-click the drive, then Format. On Mac: Disk Utility,
+  then Erase). Then make one new folder in the top level named exactly
   **VIDEO**, and copy your videos back into it.
 
 ### The strict video recipe (for files you make yourself)
