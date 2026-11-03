@@ -23,15 +23,33 @@ This is the normal way. No special tools.
 2. Turn the ball on while it's plugged in (hold the middle button,
    3 seconds). A new drive pops up on the computer, like a USB stick.
 3. Open the drive. There are folders on it. **Do not delete the folders.**
-4. Put videos in the **VIDEO** folder. Put photos in the **picture** folder.
+4. Put videos in the **Video** folder. Put photos in the **Photos** folder.
+   Put music in the **Music** folder.
 5. Eject the drive the safe way, then unplug the ball.
 6. Done. The ball plays your stuff by itself.
 
 File rules, simple version:
 
-- Videos must be **MP4**. Photos must be **JPG**.
+- Videos must be **MP4**. Photos must be **JPG**. Music must be **MP3**.
 - Keep videos short. A few minutes at most. The ball has 4 GB of space.
 - The battery lasts about 2 to 4 hours per charge.
+
+## Folder structure
+
+The drive always has these three folders, right at the top (the "root"):
+
+```
+/
+├── Video/
+├── Music/
+└── Photos/
+```
+
+- **Video** — MP4 videos. The ball plays these first.
+- **Music** — MP3 music files.
+- **Photos** — JPG photos. They play as a slideshow when there is no video.
+
+Don't rename them. The ball looks for these exact names.
 
 ## [Advanced] When it's wired to a computer
 
@@ -47,12 +65,11 @@ files and want them to always play.
 
 ### The folders, in plain words
 
-- **VIDEO** = the videos. The ball plays these first.
-- **picture** = the photos.
+- **Video**, **Music**, **Photos** — the same three folders as above.
 - If the ball acts weird or the drive looks empty and broken: format the
   drive (on PC: right-click the drive, then Format. On Mac: Disk Utility,
-  then Erase). Then make one new folder in the top level named exactly
-  **VIDEO**, and copy your videos back into it.
+  then Erase). Then make the three folders again in the top level, named
+  exactly **Video**, **Music**, and **Photos**, and copy your files back.
 
 ### The strict video recipe (for files you make yourself)
 
