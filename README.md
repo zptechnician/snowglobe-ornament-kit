@@ -16,8 +16,8 @@ it, and the extra stuff for when it's plugged into a computer.
 
 This is the normal way. No special tools.
 
-1. Plug the ball into a **Windows** computer with the USB cable.
-   (Loading files does not work on a Mac. The seller says Windows only.)
+1. Plug the ball into a computer with the USB cable.
+   (The seller page says Windows only, but a Mac worked fine for mine.)
 2. Turn the ball on while it's plugged in (hold the middle button,
    3 seconds). A new drive pops up on the computer, like a USB stick.
 3. Open the drive. There are folders on it. **Do not delete the folders.**
@@ -76,11 +76,6 @@ python3 make_mask.py                  # one time: makes the circle mask
 
 Made with the recipe above. All are 10 seconds and loop fine:
 
-- `christmas-snowglobe.mp4` — cozy cabin in the snow. The favorite.
-- `nebula.mp4` — purple space swirl with a small planet.
-- `jellyfish.mp4` — glowing jellyfish in dark water.
-- `jolly-snowglobe.mp4` — Jolly (the cream plush guy in the cowboy hat)
-  waving next to the cabin.
 - `winter-village.mp4` — tiny Christmas village with a little red train.
 - `aurora-fox.mp4` — a fox on a frozen pond under northern lights.
 
